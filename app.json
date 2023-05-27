@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "Jporter",
-    "slug": "Jporter"
+    "slug": "Jporter",
+    "extra": {
+      "eas": {
+        "projectId": "cf00769d-6385-42cc-a645-39eef13d3d2b"
+      }
+    },
+    "android": {
+      "package": "com.sarathsps.Jporter"
+    }
   }
 }
